@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **julianmunguia04@gmail.com**
 
-- ⚡ Fun fact **I can exit vim**
+- ⚡ Fun fact **I can exit Vim**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
