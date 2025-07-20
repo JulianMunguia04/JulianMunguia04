@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julian Munguia</h1>
-<h3 align="center">A passionate programmer from Canada</h3>
+💻 **IT Student | Full-Stack Developer | Tech Lover**  
 
 - 📫 How to reach me **julianmunguia04@gmail.com**
 
