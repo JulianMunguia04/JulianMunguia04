@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julian Munguia</h1>
-💻 IT Student | Full-Stack Developer  
+💻 IT Student | Full-Stack Developer | Intern @TR-Coms
 
 - 📫 How to reach me **julianmunguia04@gmail.com**
 
