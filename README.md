@@ -8,7 +8,7 @@
 ![Cute kitten](./kitten-cat.gif)
 
 ## 🧰 Featured Projects
-- In progress....
+- In progress...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
