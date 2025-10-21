@@ -9,7 +9,7 @@
 
 ## 🧰 Featured Projects
 - [Lad Ladder](https://github.com/JulianMunguia04/LadLadder)
-- [MinesweeperVs](https://github.com/JulianMunguia04/minesweepervs)g
+- [MinesweeperVs](https://github.com/JulianMunguia04/minesweepervs)
 - [Music-Transcriber](https://github.com/JulianMunguia04/music-transcriber)
 
 <h3 align="left">Connect with me:</h3>
