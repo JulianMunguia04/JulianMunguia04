@@ -8,7 +8,9 @@
 ![Cute kitten](./kitten-cat.gif)
 
 ## 🧰 Featured Projects
-- Lad Ladder
+- [Lad Ladder](https://github.com/JulianMunguia04/LadLadder)
+- [MinesweeperVs](https://github.com/JulianMunguia04/minesweepervs)g
+- [Music-Transcriber](https://github.com/JulianMunguia04/music-transcriber)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
