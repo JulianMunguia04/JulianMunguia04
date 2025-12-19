@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julian Munguia</h1>
-💻 IT Student @ CUE | Full-Stack Developer | Software Engineer
+💻 IT Student @ CUE | Full-Stack Developer | Software Engineer | Machine Learning & AI
 
 - 📫 How to reach me **julianmunguia04@gmail.com**
 
