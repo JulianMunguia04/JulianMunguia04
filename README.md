@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I can exit vim**
 
-- 🧠 Interests: AI, Machine Learning, Web-Development, Software Engineering, Game Development
+- 🧠 Interests: AI, Machine Learning, Web-Development, Software Engineering, Game Development, Data Analytics
 
 ![Cute kitten](./kitten-cat.gif)
 
