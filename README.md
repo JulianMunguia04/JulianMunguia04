@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julian Munguia</h1>
-💻 Information Technology Student @ Concordia University of Edmonton | Full-Stack Developer | Software Engineer | Machine Learning & AI | Data Analytics 
+💻 Information Technology Student @ Concordia University of Edmonton | Full-Stack Developer | Software Engineer | Machine Learning & Artificial Intelligence | Data Analytics 
 
 - 📫 How to reach me **julianmunguia04@gmail.com**
 
