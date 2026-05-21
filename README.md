@@ -11,12 +11,12 @@
 
 ## 🧰 Featured Projects
 - [Lad Ladder](https://github.com/JulianMunguia04/LadLadder)
-- [MinesweeperVs](https://github.com/JulianMunguia04/minesweepervs)
+- [Distributed Rate Limiter + API Gateway](https://github.com/JulianMunguia04/distributed-rate-limiter-api-gateway-in-go)
 - [Music-Transcriber](https://github.com/JulianMunguia04/music-transcriber)
+- [AI GitHub Codebase Analyzer](https://github.com/JulianMunguia04/AI-GitHub-Codebase-Analyzer)
+- [MinesweeperVs](https://github.com/JulianMunguia04/minesweepervs)
 - [Python Neetcode](https://github.com/JulianMunguia04/neetcode-roadmap-python)
 - [Personal Portfolio](https://github.com/JulianMunguia04/personal-portfolio)
-- [Distributed Rate Limiter + API Gateway](https://github.com/JulianMunguia04/distributed-rate-limiter-api-gateway-in-go)
-- [AI GitHub Codebase Analyzer](https://github.com/JulianMunguia04/AI-GitHub-Codebase-Analyzer)
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
