@@ -15,8 +15,8 @@
 - [Music-Transcriber](https://github.com/JulianMunguia04/music-transcriber)
 - [AI GitHub Codebase Analyzer](https://github.com/JulianMunguia04/AI-GitHub-Codebase-Analyzer)
 - [MinesweeperVs](https://github.com/JulianMunguia04/minesweepervs)
-- [Python Neetcode](https://github.com/JulianMunguia04/neetcode-roadmap-python)
 - [Personal Portfolio](https://github.com/JulianMunguia04/personal-portfolio)
+- [Python Neetcode](https://github.com/JulianMunguia04/neetcode-roadmap-python)
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
