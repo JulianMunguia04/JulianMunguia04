@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I can exit vim**
 
-- 🧠 Interests: Full-Stack, AI, Machine Learning, Web-Development, Software Engineering/Development, Game Development
+- 🧠 Interests: Full-Stack, Artificial Intelligence, Machine Learning, Web-Development, Software Engineering/Development, Game Development
 
 ![Cute kitten](./kitten-cat.gif)
 
