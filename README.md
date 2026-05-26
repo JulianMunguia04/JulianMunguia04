@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **julianmunguia04@gmail.com**
 
-- ⚡ Fun fact **I can exit vim**
+- ⚡ Fun fact **I'm able to exit vim**
 
 - 🧠 Interests: Full-Stack, Artificial Intelligence, Machine Learning, Web-Development, Software Engineering/Development, Game Development
 
