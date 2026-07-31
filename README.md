@@ -16,7 +16,7 @@
 - [AI GitHub Codebase Analyzer](https://github.com/JulianMunguia04/AI-GitHub-Codebase-Analyzer)
 - [MinesweeperVs](https://github.com/JulianMunguia04/minesweepervs)
 - [Personal Portfolio](https://github.com/JulianMunguia04/personal-portfolio)
-- [Python Neetcode](https://github.com/JulianMunguia04/neetcode-roadmap-python)
+- [Python Leetcode 75](https://github.com/JulianMunguia04/leetcode-75-python)
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
