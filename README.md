@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julian Munguia</h1>
-💻 Information Technology @ CUE | Incoming Master of Science in Computer Science @ Georgia Tech | Backend Engineering | Full-Stack Developer | Software Engineer | Machine Learning & Artificial Intelligence | Data Analysis
+💻 Information Technology @ CUE | Incoming Master of Science in Computer Science @ Georgia Tech | Backend Engineering | Full-Stack Developer | Software Engineer | Machine Learning & Artificial Intelligence
 
 - 📫 How to reach me **julianmunguia04@gmail.com**
 
