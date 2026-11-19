@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Julian Munguia</h1>
 💻 Information Technology @ CUE | Incoming MS in Computer Science @ Georgia Tech | Backend Engineering | Full-Stack Development | Software Engineering | Machine Learning & AI
 
-- 📫 bHow to reach me **julianmunguia04@gmail.com**
+- 📫 How to reach me **julianmunguia04@gmail.com**
 
 - ⚡ Fun fact **I'm able to exit vim**
 
